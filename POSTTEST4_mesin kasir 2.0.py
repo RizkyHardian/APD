@@ -3,7 +3,7 @@ print("||                      Toko Trundul                      ||")
 print("||          Menjual barang peralatan rumah tangga         ||")
 print("||"+"="*56+"||")
 
-username = ["rizky"]
+username = ["rizky hardian nor"]
 password = ["059","210"]
 
 inv = {"keranjang":30000,"wajan":45000,"gayung":5000,"panci":30000,"ember":15000,"toples":10000,"dispenser":40000,"sendok":5000,"garpu":5000,"piring":35000,"mangkok":40000,"sikat":2000,"sapu":20000,"baskom":10000}
