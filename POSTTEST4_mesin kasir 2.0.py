@@ -3,8 +3,8 @@ print("||                      Toko Trundul                      ||")
 print("||          Menjual barang peralatan rumah tangga         ||")
 print("||"+"="*56+"||")
 
-username = ["admin","user","exit"]
-password = ["059","210","exit"]
+username = ["admin","user"]
+password = ["059","210"]
 
 inv = {"keranjang":30000,"wajan":45000,"gayung":5000,"panci":30000,"ember":15000,"toples":10000,"dispenser":40000,"sendok":5000,"garpu":5000,"piring":35000,"mangkok":40000,"sikat":2000,"sapu":20000,"baskom":10000}
 stock = {"keranjang":30,"wajan":25,"gayung":50,"panci":50,"ember":30,"toples":100,"dispenser":10,"sendok":50,"garpu":50,"piring":50,"mangkok":40,"sikat":20,"sapu":20,"baskom":10}
