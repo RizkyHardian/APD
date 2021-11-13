@@ -1,9 +1,11 @@
 # POSTEST2_2109106059_Rizky-Hardian-Nor
 mata kuliah algoritma dan pemrograman dasar
 
-postest2 : kodingan program konversi mata uang dan biodata
+posttest2 : kodingan program konversi mata uang dan biodata
 
-postest3 : kodingan program mesin kasir
+posttest3 : kodingan program mesin kasir
 
-postest4 : kodingan program mesin kasir 2.0
+posttest4 : kodingan program mesin kasir 2.0
+
+posttest5 : kodingan program mesin kasir 3.0
 
