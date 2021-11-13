@@ -1,3 +1,4 @@
+#Disini saya hanya mengganti tipe data list dengan tipe data dictionary pada codingan sebelumnya
 print("||"+"="*56+"||")
 print("||                      Toko Trundul                      ||")
 print("||          Menjual barang peralatan rumah tangga         ||")
