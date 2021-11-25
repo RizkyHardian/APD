@@ -1,6 +1,6 @@
 import os
 import time
-'''
+
 #time sleep
 print("\n    LOADING.......0%")
 time.sleep(4)
@@ -10,7 +10,7 @@ print("\n    LOADING.......75%")
 time.sleep(4)
 print("\n    LOADING COMPLETE!!!")
 time.sleep(1)
-'''
+
 #color
 class color:
    b = '\033[94m'
@@ -25,7 +25,6 @@ rumah = {1:{"Nama Pemilik" : "Rizky","Tipe": 36, "Alamat" : "Jl. M. Yamin No. 59
 2:{"Nama Pemilik":"Jerry", "Tipe": 54, "Alamat" : "Jl. Pramuka 2A No. 67", "Harga" : 980000000,"Luas Bangunan" : 59, "Luas Tanah" : 105,"Nomor Handphone":"08765432167"},
 3:{"Nama Pemilik":"Dani","Tipe":45,"Alamat":"Jl. Perjuangan Baru No. 92","Harga": 920000000, "Luas Bangunan":47,"Luas Tanah":110, "Nomor Handphone":"080813756492"}}
 
-rumah_baru = {}
 data_rumah = {}
 
 username = ["admin","user"]
